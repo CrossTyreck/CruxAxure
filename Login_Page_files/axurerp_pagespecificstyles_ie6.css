@@ -1,0 +1,10 @@
+﻿* html .u4_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_Page_files/Login_Button_u4_normal.png");
+}
+
+* html .u7_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_Page_files/u7_normal.png");
+}
+
